@@ -1,4 +1,4 @@
-<div class="footer pl5">
+<div class="footer pl5 hide-for-small-only">
     <span>Powered by ЯedoC     &copy;2016-<?= date("Y") ?></span>
  </div>
 <script src="<?= $putanjaApp ?>js/vendor/jquery.js"></script>
