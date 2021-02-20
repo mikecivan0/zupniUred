@@ -1,0 +1,3 @@
+function potvrdiFormu() {
+	$("form").submit();
+}

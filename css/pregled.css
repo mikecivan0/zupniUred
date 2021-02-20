@@ -1,0 +1,46 @@
+
+.broj {
+	font-size: 0.9rem !important;
+}
+
+div {
+	margin: 0 !important;
+	padding: 0 !important;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+	font-size: 0.9rem;
+	position: absolute;
+}
+
+p {
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+
+#zapis {
+	font-size: 12px;
+}
+
+.pregled{ 
+	height: 297mm !important;
+	width: 210mm !important;	
+	left: 27%;
+	}
+
+.pozadina{ 		
+	background-repeat: no-repeat !important;
+	}
+
+.krsniList{ 
+	background-size: 207mm 276mm !important;
+	background: url("../img/predlosci/krsniList.jpg");	
+	}
+	
+.vjencaniList{ 
+	background: url("../img/predlosci/vjencaniList.jpg");	
+	}
+	
+.smrtniList{ 
+	background-size: 203mm 276mm !important;
+	background: url("../img/predlosci/smrtniList.jpg");	
+	}
